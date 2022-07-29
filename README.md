@@ -10,13 +10,22 @@ https://us-central1-terraform-course-354217.cloudfunctions.net/function-2
 
 *** How to create a cloud function in GCP for Rest API by using golang ***:point_down:
 
+
+
+
 **Step 1:point_down:**
 
 ![2](https://user-images.githubusercontent.com/77083678/181674045-5c256b91-5a3c-40ca-b764-cf163198fff4.PNG)
 
+
+
+
 **Step 2:point_down:**
 
 ![3](https://user-images.githubusercontent.com/77083678/181674070-b9a3b0ff-84a9-4cc8-92e2-6a429a7b68b1.PNG)
+
+
+
 
 **Step 3:point_down:**
 
