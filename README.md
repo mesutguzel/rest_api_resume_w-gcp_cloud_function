@@ -4,11 +4,11 @@
 
 https://us-central1-terraform-course-354217.cloudfunctions.net/function-2
 
-** Your resume will look like this!** :point_down:
+**Your resume will look like this!** :point_down:
 
 ![5](https://user-images.githubusercontent.com/77083678/181673845-0f15971d-ad65-495b-8e44-a7061f194017.PNG)
 
-**How to create a cloud function in GCP for Rest API by using golang :point_down: **
+**How to create a cloud function in GCP for Rest API by using golang :point_down:**
 
 
 
